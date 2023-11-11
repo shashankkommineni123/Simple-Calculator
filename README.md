@@ -1,3 +1,3 @@
 # Calculator
 
-Check out the calculator at-https://pranshu-mathur.github.io/Calculator/
+Check out the calculator at-https://shashankkommineni123.github.io/Simple-Calculator/
